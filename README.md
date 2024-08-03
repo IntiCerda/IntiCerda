@@ -84,7 +84,7 @@
 </div>
 
 
-## <h1 align="center"><b> Let's Connect..!</b><img src="https://media.tenor.com/nc7HAIaJ3-IAAAAi/gojo-yuji-whisper-transparent-gojo.gif" width ="70">
+## <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJiZ3ZxZmtxdHE5eWhpdmM4MXlkc2ttd3VqaXE4N2ozNGFvMWQ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KVavw5OVSK7LmYyhVx/giphy.webp" width ="70"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
