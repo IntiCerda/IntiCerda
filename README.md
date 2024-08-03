@@ -71,19 +71,37 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  
-  </br></br>
+
+## <h1 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/IntiCerda/">
+  <img src="https://github-readme-stats.vercel.app/api?username=IntiCerda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IntiCerda&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="NashorSlayer"/>
+</a>
+</div>
 
 
+## <h1 align="center"><b> Let's Connect..!</b><img src="https://media.tenor.com/nc7HAIaJ3-IAAAAi/gojo-yuji-whisper-transparent-gojo.gif" width ="70">
+<br>
+<div align='left'>
 
+<ul>
 
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div>
+<li>
+<a href="https://www.linkedin.com/in/inti-amaru-cerda-ramirez-704321321/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Inti C.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
-------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
+<li>
+<a href="mailto:inti.cerda@alumnos.ucn.cl" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Inti C.-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+<br>
