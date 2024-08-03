@@ -1,5 +1,6 @@
-<p align = center ><img src="https://wallpapercave.com/wp/wp9831615.jpg"> </p>
 
+<h1 align="center"><b> Hi, Inti Cerda here </b><img src="https://media.tenor.com/5OLMdrjEUGcAAAAi/deku-hype-hype.gif" width="55"></h1>
+<p align = center ><img src="https://wallpapercave.com/wp/wp9831615.jpg"> </p>
 
 <div>
 
@@ -9,15 +10,29 @@
 <body>
     <h2 class="decorated-text">
         ╔═══════════════╗<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Hi there<br>
         ╚═══════════════╝
     </h2>
 </body>
 
 
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- ⭐ Currently working on **backend development**
+- 💀 Mostly working on **private repositories**
+- 👾 A **student** at Universidad Católica del Norte (Chile), navigating through the world of programming
+- 🚀 A passionate backend developer with a knack for learning new technologies
+
+<body>
+    <h2 class="decorated-text">
+        ╔═══════════════╗<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About Me<br>
+        ╚═══════════════╝
+    </h2>
+</body>
+
+- 🌱 Currently learning **Frontend development** to be **full stack**
+- 🛠 Experienced in backend frameworks like **NestJS**
+- 🗄️ Skilled in working with **relational databases**
+- 🔄 Quick learner, always eager to pick up new skills and technologies
 
 <body>
     <h2 class="decorated-text">
