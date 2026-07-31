@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi, Inti Cerda here </b><img src="https://media.tenor.com/5OLMdrjEUGcAAAAi/deku-hype-hype.gif" width="55"></h1>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=IntiCerda&color=7A7ADB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"></p>
+
 <p align="center"><img src="https://wallpapercave.com/wp/wp9831615.jpg" alt="Banner"></p>
 
 <h2 align="center">
@@ -22,6 +24,8 @@
 - 🗞️ **Media Intelligence Platform** — national news monitoring SaaS: a 15-repo microservices ecosystem with a Playwright + LLM classification engine, FastAPI services, a Redis Streams event bus, JWT auth, billing, and Next.js 15 dashboards
 - 🛡️ **Compliance Monitor** — reputational-risk and compliance monitoring for regulated industries, built on the same engine with its own dashboard and auth boundary
 - 📊 Full observability stack: Prometheus, Grafana, alerting — because if you can't measure it, it's broken
+
+<img align="right" width="400" src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" alt="Chainsaw Man"/>
 
 <h2 align="center">
     ╔═══════════════╗<br>
@@ -67,6 +71,8 @@
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+<br clear="both">
+
 <h2 align="center">
     ╔═══════════════╗<br>
     📊 GitHub Stats<br>
@@ -74,10 +80,16 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/IntiCerda/">
-    <img src="https://github-readme-stats.vercel.app/api?username=IntiCerda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="180" alt="GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IntiCerda&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="180" alt="Top languages"/>
-  </a>
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="800" alt="Profile details"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Repos per language"/>
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Most commit language"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IntiCerda&theme=midnight-purple&hide_border=true" alt="GitHub streak"/>
 </div>
 
 <h2 align="center">
@@ -95,4 +107,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" width="500" alt="Chainsaw Man"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IntiCerda/IntiCerda/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/IntiCerda/IntiCerda/output/github-snake.svg" width="100%">
+</picture>
