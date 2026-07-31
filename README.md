@@ -25,13 +25,15 @@
 - 🛡️ **Compliance Monitor** — reputational-risk and compliance monitoring for regulated industries, built on the same engine with its own dashboard and auth boundary
 - 📊 Full observability stack: Prometheus, Grafana, alerting — because if you can't measure it, it's broken
 
+<hr>
+
 <img align="right" width="400" src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" alt="Chainsaw Man"/>
 
-<h2 align="center">
+<h3 align="center">
     ╔═══════════════╗<br>
     ⚔️ Tech Stack<br>
     ╚═══════════════╝
-</h2>
+</h3>
 
 - **Languages**:
 
