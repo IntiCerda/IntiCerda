@@ -51,6 +51,13 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+- **AI & Agents**:
+
+  ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7A7ADB?style=for-the-badge)
+  ![LLM Pipelines](https://img.shields.io/badge/LLM%20Pipelines-news%20classification-2234AE?style=for-the-badge)
+
 - **Infra & Data**:
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
