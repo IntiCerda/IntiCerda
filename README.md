@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi, Inti Cerda here </b><img src="https://media.tenor.com/5OLMdrjEUGcAAAAi/deku-hype-hype.gif" width="55"></h1>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=IntiCerda&color=7A7ADB&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"></p>
-
 <p align="center"><img src="https://wallpapercave.com/wp/wp9831615.jpg" alt="Banner"></p>
 
 <h2 align="center">
