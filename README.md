@@ -9,7 +9,7 @@
 </h2>
 
 - ⭐ **Full-stack developer** — backend at heart, shipping products end to end
-- 🎓 Final-semester **Computer Engineering** student at Universidad Católica del Norte (Chile)
+- 🎓 **Computer Engineering** graduate from Universidad Católica del Norte (Chile)
 - 🛠️ Building **SaaS products from scratch**: scraping engines, microservices, event-driven pipelines and dashboards
 - 💀 Most of my work lives in **private repositories** — happy to talk about it
 
@@ -25,13 +25,13 @@
 
 <hr>
 
-<img align="right" width="400" src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" alt="Chainsaw Man"/>
-
 <h3 align="center">
     ╔═══════════════╗<br>
     ⚔️ Tech Stack<br>
     ╚═══════════════╝
 </h3>
+
+<img align="right" width="400" src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" alt="Chainsaw Man"/>
 
 - **Languages**:
 
