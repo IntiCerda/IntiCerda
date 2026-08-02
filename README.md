@@ -99,10 +99,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inti-amaru-cerda-ramirez-704321321/" target="_blank">
+  <a href="https://www.linkedin.com/in/inti-cerda/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin:%20%20Inti%20C.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:inti.cerda@alumnos.ucn.cl" target="_blank">
+  <a href="mailto:inti.cerda.r@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail:%20%20Inti%20C.-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
