@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi, Inti Cerda here </b><img src="https://media.tenor.com/5OLMdrjEUGcAAAAi/deku-hype-hype.gif" width="55"></h1>
+<h1 align="center"><b>Hi, Inti Cerda here </b><img src="assets/deku.gif" width="55"></h1>
 
-<p align="center"><img src="https://wallpapercave.com/wp/wp9831615.jpg" alt="Banner"></p>
+<p align="center"><img src="assets/banner.jpg" alt="Banner"></p>
 
 <h2 align="center">
     ╔═══════════════╗<br>
@@ -31,7 +31,7 @@
     ╚═══════════════╝
 </h3>
 
-<img align="right" width="400" src="https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg" alt="Chainsaw Man"/>
+<img align="right" width="400" src="assets/chainsaw-man.jpg" alt="Chainsaw Man"/>
 
 - **Languages**:
 
@@ -89,7 +89,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IntiCerda&theme=midnight-purple&hide_border=true" alt="GitHub streak"/>
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="Stats"/>
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" height="180" alt="Productive time"/>
 </div>
 
 <h2 align="center">
